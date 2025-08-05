@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(167, 167, 233);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(43, 6, 77);
+}
+
+h1, h2{
+    color: rgb(1, 10, 24);
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 500px;
+}
+
+ol > li{
+    font-size: 30px;
+    padding: 20px 2px;
+}
+
+
